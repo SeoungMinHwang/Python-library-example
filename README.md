@@ -1,27 +1,27 @@
-# Python-library-example
+# Python-library-example  
 
 
 
-# 중요 내용 
+# 중요 내용  
 
-## 1장 텍스트 다루기
+## 1장 텍스트 다루기  
 
 정규표현식 re  
 
 
-## 3장 다양한 데이터 다루기
+## 3장 다양한 데이터 다루기  
 
 날짜 계산 datetime.date  
 두 날짜의 차이 datetime.timedelta  
 
 
-## 4장 수학과 숫자 다루기
+## 4장 수학과 숫자 다루기  
 
 정확한 소수점 계산 decimal.Decimal  
 임의 값 random  
 
 
-## 5장 함수형 프로그래밍 다루기
+## 5장 함수형 프로그래밍 다루기  
 
 순열 itertools.permutations  
 조합 itertools.combinations  
@@ -29,7 +29,7 @@
 정렬 함수의 키 매개변수에 적용하여 다양한 기준으로 정렬 operator.itemgetter  
 
 
-## 6장 파일과 디렉터리 다루기
+## 6장 파일과 디렉터리 다루기  
 
 파일 경로를 객체로 pathlib
 경로명과 파일명 제공 os.path
@@ -48,7 +48,14 @@
 여러 개의 파일을 zip 형식으로 합치거나 해제 zipfile  
 
 
-## 9장 다양한 형식의 파일 다루기
+## 9장 다양한 형식의 파일 다루기  
 
 CSV파일 읽고 쓰기 csv  
+
+
+## 10장 암호문 다루기  
+
+MD5, SHA256등의 알고리즘으로 문자열을 해싱(hashing)할 때 사용 hashlib  
+
+
 
