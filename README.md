@@ -20,6 +20,7 @@
 정확한 소수점 계산 decimal.Decimal  
 임의 값 random  
 
+
 ## 5장 함수형 프로그래밍 다루기
 
 순열 itertools.permutations  
@@ -45,4 +46,9 @@
 ## 8장 데이터 압축하고 보관하기  
 
 여러 개의 파일을 zip 형식으로 합치거나 해제 zipfile  
+
+
+## 9장 다양한 형식의 파일 다루기
+
+CSV파일 읽고 쓰기 csv  
 
