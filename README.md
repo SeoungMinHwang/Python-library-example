@@ -58,4 +58,10 @@ CSV파일 읽고 쓰기 csv
 MD5, SHA256등의 알고리즘으로 문자열을 해싱(hashing)할 때 사용 hashlib  
 
 
+## 11장 운영체제 다루기
+
+문자열을 파일처럼 사용 io.StringIO  
+디버깅용 로그 남기기 logging  
+
+
 
