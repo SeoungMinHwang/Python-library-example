@@ -66,9 +66,9 @@ MD5, SHA256등의 알고리즘으로 문자열을 해싱(hashing)할 때 사용 
 
 ## 12장 동시에 실행하기 
 
-병렬처리(스레드) threading
-병렬처리(멀티 프로세싱) multiprocessing
-시스템 명령어 실행 subprocess
+병렬처리(스레드) threading  
+병렬처리(멀티 프로세싱) multiprocessing  
+시스템 명령어 실행 subprocess  
 
 ###  threading VS multiprocessing  
 
