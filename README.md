@@ -77,3 +77,11 @@ CPU 하나에서 진행되는 작업은 process 라 하며, 하나의 process �
 여러 process 를 동시에 실행시키는 것을 Parallel execution  
  multithreading 은 I/O intensive tasks에 사용  
  multiprocessing 은 CPU intensive tasks에 사용  
+
+ 
+ 
+ ## 13장 네트워크와 프로세스 간 통신 다루기  
+ 
+ async/await 구문을 사용하여 동시성 코드를 작성할 수 있게 해주는 모듈 asyncio  
+ TCP 서버/클라이언트 프로그램을 작성할 때 사용하는 모듈 socket  
+
