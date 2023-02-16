@@ -64,4 +64,16 @@ MD5, SHA256등의 알고리즘으로 문자열을 해싱(hashing)할 때 사용 
 디버깅용 로그 남기기 logging  
 
 
+## 12장 동시에 실행하기 
 
+병렬처리(스레드) threading
+병렬처리(멀티 프로세싱) multiprocessing
+시스템 명령어 실행 subprocess
+
+###  threading VS multiprocessing 
+
+CPU 하나에서 진행되는 작업은 process 라 하며, 하나의 process 는 여러개의 thread 를 가질 수 있습니다.
+한 process 가 여러 thread 를 실행하는 것을 Concurrent execution
+여러 process 를 동시에 실행시키는 것을 Parallel execution
+ multithreading 은 I/O intensive tasks에 사용
+ multiprocessing 은 CPU intensive tasks에 사용
